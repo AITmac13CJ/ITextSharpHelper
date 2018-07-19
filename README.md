@@ -3,10 +3,10 @@ ITextSharp Tools Class<br>
 The Sample：<br>  
 FillText:<br>  
 >　　string templatePath = "E:\\ITextSharp\\1.pdf"; //Source Url<br>  
-　　　　string saveFilePath = "E:\\ITextSharp\\2.pdf"; //Target Url<br>  
-    string imageUrl = "C:\\Users\\Eternal\\Pictures\\cap.png";  //Image Url<br>  
-    Dictionary<string, string> dicPra = new Dictionary<string, string>();  //will Replace Field<br>  
-    dicPra.Add("UserName", " YuCong"); //Field 1<br>  
+　　string saveFilePath = "E:\\ITextSharp\\2.pdf"; //Target Url<br>  
+  　　string imageUrl = "C:\\Users\\Eternal\\Pictures\\cap.png";  //Image Url<br>  
+    　　Dictionary<string, string> dicPra = new Dictionary<string, string>();  //will Replace Field<br>  
+      　　dicPra.Add("UserName", " YuCong"); //Field 1<br>  
     dicPra.Add("Remark", "Hahaha!You are pig! big pig!");  //Field 2<br>  
     var source = Base.OpenDocument(templatePath, saveFilePath); //Open Source File, Get PdfReader and PdfStamper Object<br>  
     Text.FillDomain(source, dicPra); //Text Replace<br>  
