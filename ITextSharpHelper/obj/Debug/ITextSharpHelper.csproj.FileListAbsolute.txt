@@ -1,0 +1,6 @@
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\bin\Debug\ITextSharpHelper.dll
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\bin\Debug\ITextSharpHelper.pdb
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\bin\Debug\itextsharp.dll
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\bin\Debug\itextsharp.xml
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\obj\Debug\ITextSharpHelper.dll
+E:\DotnetWorkspcae\Eternal\EY.GeneralTools\ITextSharpHelper\obj\Debug\ITextSharpHelper.pdb
