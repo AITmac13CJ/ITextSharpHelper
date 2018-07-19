@@ -1,7 +1,9 @@
 # ITextSharpHelper<br>  
 ITextSharp Tools Class<br>  
-The Sample：<br>  
-FillText:<br>  
+Function：PDF template generation tool class encapsulation<br>
+Describtion：My first open source project<br>
+Backgrond：There are fewer resources available online，so consult the data integration tool class<br>
+Invoke the sample:<br>  
 >　　string templatePath = "E:\\ITextSharp\\1.pdf"; //Source Url<br>  
 　　string saveFilePath = "E:\\ITextSharp\\2.pdf"; //Target Url<br>  
   　　string imageUrl = "C:\\Users\\Eternal\\Pictures\\cap.png";  //Image Url<br>  
